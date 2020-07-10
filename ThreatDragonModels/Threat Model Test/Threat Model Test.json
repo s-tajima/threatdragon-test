@@ -1,11 +1,15 @@
 {
   "summary": {
-    "title": "Threat Model Test",
-    "owner": "@s_tajima"
+    "title": "Threat Model Test"
   },
   "detail": {
     "contributors": [],
-    "diagrams": [],
-    "reviewer": "@s_tajima"
+    "diagrams": [
+      {
+        "title": "Test Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
   }
 }
